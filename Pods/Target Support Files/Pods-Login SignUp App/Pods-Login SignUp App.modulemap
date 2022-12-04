@@ -1,0 +1,6 @@
+framework module Pods_Login_SignUp_App {
+  umbrella header "Pods-Login SignUp App-umbrella.h"
+
+  export *
+  module * { export * }
+}
